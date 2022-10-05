@@ -1,0 +1,24 @@
+body {
+background-color: white; text-align: justify;
+}
+h1 {
+    color:darkgreen; text-align: center; font-size: 80px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: right; font-size: 60px;
+}
+.itens{
+    background-color: rgb(143, 143, 143);
+    list-style: none;
+}
+
+li::marker {
+    content:✅;
+}
+
+.titulo {
+    background-color: #EEE8AA;
+}
